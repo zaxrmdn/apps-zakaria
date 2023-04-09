@@ -1,0 +1,6 @@
+version: "3.9"
+service:
+  web:
+    image: zaxrmdn/apps-zakaria
+    ports:
+      - "80:80"
